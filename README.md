@@ -1,2 +1,2 @@
 # programming-with-Ruby
-Launch School 
+Launch School's book on learning ruby. 
