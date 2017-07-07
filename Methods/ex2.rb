@@ -4,9 +4,3 @@ end
 
 puts multiply(10,20)
 
-
-def scream(words)
-  words = words + "!!!!"
-end
-
-p scream("Yippeee")
